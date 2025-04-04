@@ -106,6 +106,6 @@ Contributions are welcome! Feel free to open issues or submit pull requests to i
 
 For any inquiries, please contact: 🌐📢🎉
 
-- **Your Name**: [asitha.contact@gmail.com](mailto:asitha.contact@gmail.com)
+- **Your Name**: [asitha.contact.me@gmail.com](mailto:asitha.contact.me@gmail.com)
 - **GitHub**: [Asitha Kanchana](https://github.com/Asithakanchana1) 🔎🌈🌍
 
